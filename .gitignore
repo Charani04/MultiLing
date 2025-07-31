@@ -1,0 +1,59 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+.env
+venv/
+__pycache__/
+
+# Python compiled files
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Coverage reports
+coverage/
+*.cover
+*.pyc
+
+# System files
+*.bak
+*.tmp
+*.temp
+*.orig
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Mac/Linux files
+*.DS_Store
+*.AppleDouble
+.LSOver

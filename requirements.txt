@@ -1,0 +1,22 @@
+# Streamlit frontend
+streamlit==1.35.0
+
+# Voice input
+SpeechRecognition==3.10.0
+pyaudio==0.2.14
+
+# Text-to-Speech
+gTTS==2.5.1
+pygame==2.5.2
+
+# Backend API communication
+requests==2.31.0
+
+# FastAPI backend
+fastapi==0.111.0
+uvicorn==0.30.0
+httpx==0.27.0
+
+# Language detection and translation (optional/future use)
+langdetect==1.0.9
+deep-translator==1.11.4
